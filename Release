@@ -1,5 +1,5 @@
-Origin: SVN
-Label: SVN
+Origin: svn.app
+Label: svn.app
 Suite: stable
 Version: 1.0
 Codename: ios
