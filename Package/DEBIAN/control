@@ -1,9 +1,0 @@
-Package: app.svn.tweak.cclock
-Name: CCLock
-Depends: mobilesubstrate
-Version: 0.0.1
-Architecture: iphoneos-arm
-Description: Lock module for control center
-Maintainer: Jian Liu
-Author: Jian Liu
-Section: Control Center (Modules)
